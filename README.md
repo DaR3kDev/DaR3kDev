@@ -87,10 +87,13 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaR3kDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaR3kDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/Nokx1z">
+    <img height="180em" src="https://streak-stats.demolab.com?user=DaR3kDev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" alt="streak graph" style="max-height: 200px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaR3kDev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="DaR3kDev's GitHub Stats" style="max-height: 200px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaR3kDev&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="DaR3kDev's GitHub Stats" style="max-height: 200px;">
+  </a>
+</p>
 
 
 ###
@@ -119,4 +122,3 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaR3kDev.DaR3kDev&"  />
 
-###
