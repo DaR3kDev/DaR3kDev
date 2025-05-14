@@ -120,5 +120,7 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DaR3kDev.DaR3kDev&"  />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaR3kDev&label=Profile+Views&color=000000&style=for-the-badge&labelColor=000000&textColor=ff0000" alt="Profile Views"/>
+</p>
 
