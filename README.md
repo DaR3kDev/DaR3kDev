@@ -1,16 +1,12 @@
 <h1 align="center">👋 ¡Hola! Soy Kevin</h1>
-  
-###
-
+ 
 <p align="left">Soy desarrollador de software con muchas ganas de aprender, crecer y aportar en cualquier proyecto donde pueda sumar valor. Creo que con dedicación y trabajo en equipo, podemos lograr grandes cosas y ganar experiencia en distintos ámbitos del desarrollo. Siempre estoy abierto a nuevos retos y a colaborar. Si tienes una idea, un proyecto o simplemente necesitas ayuda, cuéntame. ya estoy listo</p>
  
-### 
 
 <br clear="both">
 
 <h2 align="center">🌐 Mis Redes Sociales</h2>
 
-###
 
 <div align="center">
   <a href="kevinvilleperez@gmail.com" target="_blank">
@@ -27,13 +23,11 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
 <h2 align="center">🛠️ Stack Tecnológico</h2>
 
-###
 
 <br clear="both">
 
@@ -77,13 +71,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h2 align="center">📊 Estadísticas en GitHub</h2>
 
-###
 
 <br clear="both">
 
@@ -96,19 +88,15 @@
 </p>
 
 
-###
-
 <br clear="both">
 
 <h2 align="center">🎧 Lo que escuchas en Spotify</h2>
 
-###
 
 <br clear="both">
 
 <p align="left">¡Estas son algunas canciones que escuchó recientemente!</p>
 
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31fdhtjpzjti53qgx5lx7ftxbbpu">
@@ -116,7 +104,6 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
