@@ -4,7 +4,7 @@
   
 <br clear="both">
    
-<h2 align="center">🌐 Mis Redes Sociales</h2>   
+<h2 align="center">🌐 Mis Redes Sociales</h2>    
   
 <div align="center"> 
   <a href="kevinvilleperez@gmail.com" target="_blank">
