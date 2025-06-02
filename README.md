@@ -73,11 +73,14 @@
 
 <br clear="both">
 
+
+###
 <p align="center">
   <a href="https://github.com/DaR3kDev">
-    <img height="180em" src="https://streak-stats.demolab.com?user=DaR3kDev&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" alt="streak graph" style="max-height: 200px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaR3kDev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="DaR3kDev's GitHub Stats" style="max-height: 200px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaR3kDev&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="DaR3kDev's GitHub Stats" style="max-height: 200px;">
+    <div align="center">
+      <img src="https://streak-stats.demolab.com?user=DaR3kDev&locale=es&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaR3kDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+    </div> 
   </a>
 </p>
 
