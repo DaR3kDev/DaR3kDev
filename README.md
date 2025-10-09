@@ -49,53 +49,26 @@ Siempre estoy abierto a nuevos retos y colaboraciones.
 ---
 
 <h2 align="center">🛠️ Stack Tecnológico</h2>
-
-<div align="center">
+<div align="center" style="line-height: 60px;">
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,angular" height="60" style="margin:10px;" alt="Framework icons" />
 
   <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript,cs,go" height="60" style="margin:10px;" alt="Languages icons" />
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" height="60" style="margin:10px;" alt="Backend icons" />
 
   <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" style="margin:10px;" alt="Testing icons" />
 
   <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="60" style="margin:10px;" alt="Database icons" />
 
   <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=docker,git" height="60" style="margin:10px;" alt="Tools icons" />
 </div>
+
 
 ---
 
