@@ -47,7 +47,7 @@ Siempre abierto a nuevos retos y colaboraciones.
 ## 🛠️ Stack Tecnológico
 
 <div align="center" style="line-height: 60px;">
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,angular" height="60" style="margin:10px;" alt="Framework icons" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,astro" height="60" style="margin:10px;" alt="Framework icons" />
   <img src="https://skillicons.dev/icons?i=typescript,cs,go" height="60" style="margin:10px;" alt="Languages icons" />
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql" height="60" style="margin:10px;" alt="Backend icons" />
   <img src="https://skillicons.dev/icons?i=jest" height="60" style="margin:10px;" alt="Testing icons" />
