@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kevin%20Villegas&fontSize=40&fontColor=fff" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kevin%20Villegas&fontSize=40&fontColor=fff"/> 
 </p>
   
 <h1 align="center">👋 ¡Hola! Soy Kevin</h1>  
  
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Ingeniero+Sistemas;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Ingeniero+Sistemas;Siempre+aprendiendo+y+mejorando" alt="Typing      SVG" />
   </a>
 </p>
 
 ---
 
-## 💡 Sobre mí
+## Sobre mí
 Soy **desarrollador de software** apasionado por aprender, mejorar y aportar en proyectos que sumen valor.  
 Creo que con dedicación y trabajo en equipo se logran grandes cosas.  
 Siempre abierto a nuevos retos y colaboraciones.
 
-- 💻 Fullstack developer con foco en **backend y arquitecturas escalables**  
-- 🤝 Me encanta trabajar en equipo y aprender de otros devs  
-- 🎯 Objetivo: Especializarme en **arquitectura de software y cloud**
+- Fullstack developer con foco en **backend y arquitecturas escalables**  
+- Me encanta trabajar en equipo y aprender de otros devs  
+- Objetivo: Especializarme en **arquitectura de software y cloud**
 
-🔗 Mira mi [**Portafolio**](https://portafolio-kappa-ten-13.vercel.app/)
+Mira mi [**Portafolio**](https://portafolio-kappa-ten-13.vercel.app/)
 
 ---
 
-## 🌐 Redes Sociales
+## Redes Sociales
 
 <div align="center">   
   <a href="mailto:kevinvilleperez@gmail.com" target="_blank">
@@ -58,14 +58,14 @@ Siempre abierto a nuevos retos y colaboraciones.
 ---
 
 ## 📈 Actualmente
-- 🔭 Mejorando proyectos con **Vue.js y Next.js**  
-- 🌱 Aprendiendo **Microservicios con Docker y Kubernetes**  
-- 👯 Buscando colaborar en proyectos open source relacionados con **seguridad y backend**  
-- ⚡ Explorando nuevas herramientas para optimizar mi flujo de trabajo  
+- Mejorando proyectos con **Vue.js y Next.js**  
+- Aprendiendo **Microservicios con Docker y Kubernetes**  
+- Buscando colaborar en proyectos open source relacionados con **seguridad y backend**  
+- Explorando nuevas herramientas para optimizar mi flujo de trabajo  
 
 ---
 
-## 📊 Estadísticas en GitHub
+## Estadísticas en GitHub
 
 <p align="center">
   <a href="https://github.com/DaR3kDev">
@@ -76,7 +76,7 @@ Siempre abierto a nuevos retos y colaboraciones.
 
 ---
 
-## 🎧 Lo que escucho en Spotify
+## Lo que escucho en Spotify
 
 <p align="center">Estas son algunas canciones que escucho recientemente:</p>
 
@@ -88,13 +88,13 @@ Siempre abierto a nuevos retos y colaboraciones.
 
 ---
 
-## 🎮 Fun Facts
-- 🎧 Amante de la música  
-- 🎮 Gamer en mis tiempos libres (RPGs y shooters)  
+##  Fun Facts
+- Amante de la música  
+- Gamer en mis tiempos libres (RPGs y shooters)  
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-villegas-666bb61ab/" target="_blank">
