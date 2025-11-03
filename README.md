@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kevin%20Villegas&fontSize=40&fontColor=fff"/> 
 </p>
   
-<h1 align="center">👋 ¡Hola! Soy Kevin</h1>   
+<h1 align="center">👋 ¡Hola! Soy Kevin</h1>    
    
 <p align="center"
   <a href="https://git.io/typing-svg">
