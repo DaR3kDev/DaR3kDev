@@ -21,7 +21,7 @@ Siempre abierto a nuevos retos y colaboraciones.
 - Me encanta trabajar en equipo y aprender de otros devs  
 - Objetivo: Especializarme en **arquitectura de software y cloud**
 
-Mira mi [**Portafolio**](https://portafolio-kappa-ten-13.vercel.app/)
+Mira mi [**Portafolio**](https://portafolio-opal-beta-55.vercel.app/)
 
 ---
 
